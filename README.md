@@ -9,9 +9,8 @@
 
 ## Overview
 
-A repo containing the libstdc++-v3 folder from the main GCC GitHub repo
-which can be found here:
-[https://github.com/gcc-mirror/gcc](https://github.com/gcc-mirror/gcc)
+This repo contians the libstdc++-v3 include folder from the main GCC GitHub repo
+which can be found [here](https://github.com/gcc-mirror/gcc). It has been created to facilitate more efficient LLM querying of the C++ standard library headers given the primary GCC mirror has > 100k files and is slow to access via the GitHub API.
 
 *Please note: the tag/release 14.1.0 was used to minimise the repo size.*
 
