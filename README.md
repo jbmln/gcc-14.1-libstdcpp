@@ -10,6 +10,7 @@ which can be found here:
 
 ## Folder structure
 
+```txt
 📂 /include
 ├── 📂 bits
 │   ├── 📄 algorithmfwd.h
@@ -143,7 +144,7 @@ which can be found here:
 │   ├── 📄 binders.h
 │   ├── 📄 iterator.h
 │   ├── 📄 pair.h
-
+```
 
 ### Brief description of each header:
 
